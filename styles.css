@@ -1,0 +1,65 @@
+body{
+    background-color:#232931 ;
+    color: #EEEEEE;
+}
+
+h3{
+    text-align: center;
+   
+}
+footer{
+    text-align: center;
+    margin: 30px 0;
+}
+#big{
+ font-size: 5rem;
+}
+#result{
+    font-size: 3.5rem;
+    color:#c4f2ef ;
+}
+.grid{
+    border: 1px solid black;
+    height: 360px;
+    width: 420px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    background-color: #EEEEEE;
+}
+.grid div{
+    height: 60px;
+    width: 60px;
+    
+}
+.player1{
+    background-color:#4ECCA3;
+    border-radius: 50%;
+}
+.player2{
+    background-color:#393E46;
+    border-radius: 50%;
+}
+.social-btn{
+    font-size: 2rem;
+    margin: 5px 10px;
+    color:black;
+}
+.last-p{
+    color: black;
+}
+.face-b:hover{
+    color: blue;
+  }
+  .insta-b:hover{
+    color:rgb(225, 0, 255);
+  }
+  .link-b:hover{
+    color:rgb(64, 60, 144);
+  }
+  .email-b:hover{
+    color:rgb(255, 0, 0);
+  }
+  .last-p:hover{
+    color:gray;
+  }
